@@ -29,8 +29,9 @@ map.addControl(new mapboxgl.NavigationControl());
 
 
 map.on('load', function () {
+    console.log(clickedLandlord);
     //// add data sources  
-    //
+    // shade Hoboken polygon
     map.addSource('shade-hoboken', {
         type: 'geojson',
         data: './data/shade-hoboken.geojson'
@@ -96,20 +97,73 @@ map.on('load', function () {
         }
     })
 
-    // add popups with additional info for each apartment
+    //// define function to highlight all properties with same landlord on click
+    const handleClick = (e) => {
+        // if clicked landlord is not already highlighted, highlight all their properties
+        if (clickedLandlord !== e.features[0].properties.company) {
+            clickedLandlord = e.features[0].properties.company;
+            // change all apartments not related to that landlord to gray
+            map.setPaintProperty('apartment-points', 'circle-color',
+                [
+                    'case',
+                    ['==', ['get', 'company'], clickedLandlord],
+                    '#1b5bc2',
+                    'gray'
+                ]);
+            // change all apartments not related to that landlord to be more transparent
+            map.setPaintProperty('apartment-points', 'circle-opacity',
+                [
+                    'case',
+                    ['==', ['get', 'company'], clickedLandlord],
+                    .75,
+                    .25
+                ]);
+            // change all condos not related to that landlord to gray
+            map.setPaintProperty('condo-points', 'circle-color',
+                [
+                    'case',
+                    ['==', ['get', 'company'], clickedLandlord],
+                    '#cc7c14',
+                    'gray'
+                ]);
+            // change all condos not related to that landlord to be more transparent
+            map.setPaintProperty('condo-points', 'circle-opacity',
+                [
+                    'case',
+                    ['==', ['get', 'company'], clickedLandlord],
+                    .75,
+                    .25
+                ]);
+        // if clicked landlord is already highlighted, restore defaults
+        } else if (clickedLandlord = e.features[0].properties.company) {
+            map.setPaintProperty('apartment-points', 'circle-color', '#1b5bc2');
+            map.setPaintProperty('apartment-points', 'circle-opacity', .75);
+            map.setPaintProperty('condo-points', 'circle-color', '#cc7c14');
+            map.setPaintProperty('condo-points', 'circle-opacity', .75);
+            clickedLandlord = null;
+        }
+        console.log(clickedLandlord);
+    }
 
-    // Create a popup, but don't add it to the map yet
-    const popup = new mapboxgl.Popup({
-        closeButton: false,
-        closeOnClick: false
-    });
+    // call function for both apartments and condos
+    map.on('click', 'apartment-points', handleClick)
+    map.on('click', 'condo-points', handleClick)
 
-    // Populate the popup and set its coordinates on hover- apartments
-    map.on('mouseenter', 'apartment-points', (e) => {
-        map.getCanvas().style.cursor = 'pointer';
-        popup
-            .setLngLat(e.lngLat)
-            .setHTML(`
+
+// add popups with additional info for each apartment
+
+// Create a popup, but don't add it to the map yet
+const popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false
+});
+
+// Populate the popup and set its coordinates on hover- apartments
+map.on('mouseenter', 'apartment-points', (e) => {
+    map.getCanvas().style.cursor = 'pointer';
+    popup
+        .setLngLat(e.lngLat)
+        .setHTML(`
                 <table class="key-value-table">
                 <tr>
                 <td class="key">Address:</td>
@@ -125,22 +179,22 @@ map.on('load', function () {
                 </tr>
                 </table>
             `
-            )
-            .addTo(map);
-    });
+        )
+        .addTo(map);
+});
 
-    // Make popup disappear when mouse leaves
-    map.on('mouseleave', 'apartment-points', () => {
-        map.getCanvas().style.cursor = '';
-        popup.remove();
-    });
+// Make popup disappear when mouse leaves
+map.on('mouseleave', 'apartment-points', () => {
+    map.getCanvas().style.cursor = '';
+    popup.remove();
+});
 
-    // Populate the popup and set its coordinates on hover- condos
-    map.on('mouseenter', 'condo-points', (e) => {
-        map.getCanvas().style.cursor = 'pointer';
-        popup
-            .setLngLat(e.lngLat)
-            .setHTML(`
+// Populate the popup and set its coordinates on hover- condos
+map.on('mouseenter', 'condo-points', (e) => {
+    map.getCanvas().style.cursor = 'pointer';
+    popup
+        .setLngLat(e.lngLat)
+        .setHTML(`
                 <table class="key-value-table">
                 <tr>
                 <td class="key">Address:</td>
@@ -152,15 +206,15 @@ map.on('load', function () {
                 </tr>
                 </table>
             `
-            )
-            .addTo(map);
-    });
+        )
+        .addTo(map);
+});
 
-    // Make popup disappear when mouse leaves
-    map.on('mouseleave', 'condo-points', () => {
-        map.getCanvas().style.cursor = '';
-        popup.remove();
-    });
+// Make popup disappear when mouse leaves
+map.on('mouseleave', 'condo-points', () => {
+    map.getCanvas().style.cursor = '';
+    popup.remove();
+});
 
     // map.on('click', 'apartment-points', (e) => {
     //     if (e.features.length > 0) {
