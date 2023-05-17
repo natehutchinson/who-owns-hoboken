@@ -22,6 +22,7 @@ nav {
     padding: 1rem;
     border-bottom: 1px solid #000;
     display: flex;
+    background:#afc6e3;
 }
 
 .nav-links {
@@ -47,6 +48,7 @@ nav {
     font-size: 0.9rem;
     overflow-y: scroll;
     box-sizing: border-box;
+    background:#afc6e3;
 }
 
 #map {
@@ -71,4 +73,30 @@ nav {
     #sidebar {
         width: 100%;
     }
+}
+
+/*legend*/
+.map-overlay {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background:#8b9eb5;
+    margin-right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow: auto;
+    border-radius: 3px;
+    padding: 10px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    line-height: 18px;
+    height: 55px;
+    margin-bottom: 40px;
+    width: 200px;
+}
+
+.legend-key {
+    display: inline-block;
+    border-radius: 20%;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
 }

@@ -296,7 +296,7 @@
                 "city_state_zip": "BASKING RIDGE, NJ  07920",
                 "sq_ft": 2006.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-BALC",
                 "units2": 1,
                 "sale_date": "3/24/16",
@@ -358,7 +358,7 @@
                 "city_state_zip": "BEACH HAVEN NJ  08008",
                 "sq_ft": 894.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "9/25/20",
@@ -648,7 +648,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02836094260044,
-                    40.7428603
+                    40.742860300000004
                 ]
             }
         },
@@ -679,7 +679,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02836094260044,
-                    40.7428603
+                    40.742860300000004
                 ]
             }
         },
@@ -896,7 +896,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0323637875,
-                    40.747896275
+                    40.747896274999995
                 ]
             }
         },
@@ -916,7 +916,7 @@
                 "city_state_zip": "CALIFON  NJ  07830",
                 "sq_ft": 1136.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/29/08",
@@ -947,7 +947,7 @@
                 "city_state_zip": "CALIFON NJ  07830",
                 "sq_ft": 542.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -978,7 +978,7 @@
                 "city_state_zip": "CALIFON NJ  07830",
                 "sq_ft": 505.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -1009,7 +1009,7 @@
                 "city_state_zip": "CALIFON NJ  07830",
                 "sq_ft": 1136.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -1288,7 +1288,7 @@
                 "city_state_zip": "CHATHAM, NJ  07928",
                 "sq_ft": 1824.0,
                 "yr_built": 2010,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PATIO-PS#1",
                 "units2": 1,
                 "sale_date": "7/16/10",
@@ -1319,7 +1319,7 @@
                 "city_state_zip": "CHATHAM, NJ  07928",
                 "sq_ft": 1413.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#22",
                 "units2": 1,
                 "sale_date": "1/26/07",
@@ -1350,7 +1350,7 @@
                 "city_state_zip": "CHERRY HILL NJ  08003",
                 "sq_ft": 806.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "2/22/15",
@@ -1753,7 +1753,7 @@
                 "city_state_zip": "DAYTON, NJ  08810",
                 "sq_ft": 966.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "8/18/21",
@@ -1795,7 +1795,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03150719952575,
-                    40.7471894
+                    40.747189399999996
                 ]
             }
         },
@@ -1826,7 +1826,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03150719952575,
-                    40.7471894
+                    40.747189399999996
                 ]
             }
         },
@@ -1846,7 +1846,7 @@
                 "city_state_zip": "EAST BRUNSWICK NJ  08816",
                 "sq_ft": 1062.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "5/17/07",
@@ -1877,7 +1877,7 @@
                 "city_state_zip": "EAST BRUNSWICK NJ  08816",
                 "sq_ft": 926.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "4/11/14",
@@ -1908,7 +1908,7 @@
                 "city_state_zip": "EAST BRUNSWICK NJ  08816",
                 "sq_ft": 926.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "9/30/14",
@@ -1939,7 +1939,7 @@
                 "city_state_zip": "EAST BRUNSWICK NJ  08816",
                 "sq_ft": 1072.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "5/17/13",
@@ -1981,7 +1981,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03171609374999,
-                    40.73804471875
+                    40.738044718750004
                 ]
             }
         },
@@ -2001,7 +2001,7 @@
                 "city_state_zip": "EAST BRUNSWICK, NJ  08816",
                 "sq_ft": 1328.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "6/29/21",
@@ -2105,7 +2105,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04032597967331,
-                    40.7387450882924
+                    40.738745088292404
                 ]
             }
         },
@@ -2187,7 +2187,7 @@
                 "city_state_zip": "EAST BRUNSWICK, NJ  08816",
                 "sq_ft": 628.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "10/20/11",
@@ -2280,7 +2280,7 @@
                 "city_state_zip": "ENGLEWOOD CLIFFS NJ  07632",
                 "sq_ft": 1220.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "12/17/13",
@@ -2311,7 +2311,7 @@
                 "city_state_zip": "ENGLEWOOD CLIFFS NJ  07632",
                 "sq_ft": 1019.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/8/13",
@@ -2342,7 +2342,7 @@
                 "city_state_zip": "ENGLEWOOD CLIFFS NJ  07632",
                 "sq_ft": 1220.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS6",
                 "units2": 1,
                 "sale_date": "8/15/07",
@@ -2404,7 +2404,7 @@
                 "city_state_zip": "ENGLEWOOD, NJ  07631",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "5/16/19",
@@ -2435,7 +2435,7 @@
                 "city_state_zip": "ENGLEWOOD, NJ  07631",
                 "sq_ft": 803.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "5/13/19",
@@ -2477,7 +2477,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02972816326532,
-                    40.74692871428572
+                    40.746928714285716
                 ]
             }
         },
@@ -2508,7 +2508,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02972816326532,
-                    40.74692871428572
+                    40.746928714285716
                 ]
             }
         },
@@ -2590,7 +2590,7 @@
                 "city_state_zip": "FAIR HAVEN,  NJ  07704",
                 "sq_ft": 702.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "5/22/17",
@@ -2621,7 +2621,7 @@
                 "city_state_zip": "FAIR HAVEN, NJ  07704",
                 "sq_ft": 800.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "7/28/15",
@@ -2652,7 +2652,7 @@
                 "city_state_zip": "FLANDERS, NJ  07836",
                 "sq_ft": 1703.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN",
                 "units2": 1,
                 "sale_date": "3/19/21",
@@ -2683,7 +2683,7 @@
                 "city_state_zip": "FLANDERS, NJ  07836",
                 "sq_ft": 1242.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "8/8/14",
@@ -2714,7 +2714,7 @@
                 "city_state_zip": "FLANDERS, NJ  07836",
                 "sq_ft": 811.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "6/12/14",
@@ -2745,7 +2745,7 @@
                 "city_state_zip": "FLANDERS, NJ  07836",
                 "sq_ft": 861.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "7/3/12",
@@ -2776,7 +2776,7 @@
                 "city_state_zip": "FLANDERS, NJ  07836",
                 "sq_ft": 793.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "6/27/12",
@@ -2911,7 +2911,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03840653061225,
-                    40.74422926530613
+                    40.744229265306124
                 ]
             }
         },
@@ -2931,7 +2931,7 @@
                 "city_state_zip": "FORT LAUDERDALE, FL  33312",
                 "sq_ft": 780.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/1BA",
                 "units2": 1,
                 "sale_date": "2/6/18",
@@ -2962,7 +2962,7 @@
                 "city_state_zip": "FORT LAUDERDALE, FL #2700  33301",
                 "sq_ft": 1273.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "6/15/05",
@@ -2993,7 +2993,7 @@
                 "city_state_zip": "FORT LAUDERDALE,FL #2700  33301",
                 "sq_ft": 1221.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN",
                 "units2": 1,
                 "sale_date": "5/30/08",
@@ -3024,7 +3024,7 @@
                 "city_state_zip": "FORT LEE, NJ  07024",
                 "sq_ft": 808.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "10/27/17",
@@ -3035,7 +3035,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -3055,7 +3055,7 @@
                 "city_state_zip": "FRANKLIN LAKES, NJ  07417",
                 "sq_ft": 1170.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/21/15",
@@ -3086,7 +3086,7 @@
                 "city_state_zip": "FRANKLIN LAKES, NJ  07417",
                 "sq_ft": 1312.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "3/28/13",
@@ -3221,7 +3221,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03090822631579,
-                    40.73983663157895
+                    40.739836631578946
                 ]
             }
         },
@@ -3396,7 +3396,7 @@
                 "city_state_zip": "HARRINGTON PARK, N J  07640",
                 "sq_ft": 1106.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "PS#2",
                 "units2": 1,
                 "sale_date": "1/9/04",
@@ -3427,7 +3427,7 @@
                 "city_state_zip": "HARRINGTON PARK, NJ  07640",
                 "sq_ft": 1335.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS16",
                 "units2": 1,
                 "sale_date": "9/15/99",
@@ -3489,7 +3489,7 @@
                 "city_state_zip": "HARRISON, NJ  07029",
                 "sq_ft": 810.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "4/18/18",
@@ -3562,7 +3562,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03728518367348,
-                    40.73901530612245
+                    40.739015306122454
                 ]
             }
         },
@@ -3768,7 +3768,7 @@
                 "city_state_zip": "HAZLET NJ  07730",
                 "sq_ft": 786.0,
                 "yr_built": 2021,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1.5BA",
                 "units2": 1,
                 "sale_date": "3/8/21",
@@ -3799,7 +3799,7 @@
                 "city_state_zip": "HAZLET NJ  07730",
                 "sq_ft": 795.0,
                 "yr_built": 2021,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "3/8/21",
@@ -3830,7 +3830,7 @@
                 "city_state_zip": "HAZLET NJ  07730",
                 "sq_ft": 791.0,
                 "yr_built": 2021,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "3/8/21",
@@ -3923,7 +3923,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 610.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "9/12/14",
@@ -3965,7 +3965,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0380513265306,
-                    40.74296846938776
+                    40.742968469387755
                 ]
             }
         },
@@ -3996,7 +3996,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0309844368421,
-                    40.73956068421053
+                    40.739560684210524
                 ]
             }
         },
@@ -4016,7 +4016,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 1950.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN",
                 "units2": 1,
                 "sale_date": "8/7/13",
@@ -4047,7 +4047,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 1037.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "1/14/12",
@@ -4078,7 +4078,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "9/19/14",
@@ -4109,7 +4109,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "12/16/16",
@@ -4171,7 +4171,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 2147.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR/3BA",
                 "units2": 1,
                 "sale_date": "7/22/21",
@@ -4202,7 +4202,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 1253.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "11/12/14",
@@ -4264,7 +4264,7 @@
                 "city_state_zip": "HOBOKEN NJ  07030",
                 "sq_ft": 1175.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "7/30/99",
@@ -4481,7 +4481,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 1143.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "11/11/16",
@@ -4574,7 +4574,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": null,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "9/15/17",
@@ -4605,7 +4605,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": null,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR",
                 "units2": 1,
                 "sale_date": "10/11/07",
@@ -4791,7 +4791,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 1189.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/31/07",
@@ -4822,7 +4822,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 1140.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "2/10/00",
@@ -4884,7 +4884,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 1500.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-G",
                 "units2": 1,
                 "sale_date": "6/4/99",
@@ -4915,7 +4915,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 1500.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-G",
                 "units2": 1,
                 "sale_date": "6/4/99",
@@ -4977,7 +4977,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 1550.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "8/28/07",
@@ -5174,7 +5174,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0323637875,
-                    40.747896275
+                    40.747896274999995
                 ]
             }
         },
@@ -5194,7 +5194,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 558.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DECK",
                 "units2": 1,
                 "sale_date": "10/12/15",
@@ -5225,7 +5225,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 1723.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR-PS#1-2-3",
                 "units2": 1,
                 "sale_date": "3/9/05",
@@ -5256,7 +5256,7 @@
                 "city_state_zip": "HOBOKEN, N J  07030",
                 "sq_ft": 574.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "10/30/15",
@@ -5349,7 +5349,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1390.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "9/16/10",
@@ -5442,7 +5442,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1588.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "11/2/07",
@@ -5473,7 +5473,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1172.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS-BALC",
                 "units2": 1,
                 "sale_date": "9/6/06",
@@ -5504,7 +5504,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1083.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS",
                 "units2": 1,
                 "sale_date": "4/5/06",
@@ -5546,7 +5546,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0327224,
-                    40.744277
+                    40.744277000000004
                 ]
             }
         },
@@ -5566,7 +5566,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1570.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2.5BA/DEN",
                 "units2": 1,
                 "sale_date": "5/25/17",
@@ -5577,7 +5577,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -5628,7 +5628,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1033.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-TERRACE",
                 "units2": 1,
                 "sale_date": "2/24/21",
@@ -5659,7 +5659,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 543.0,
                 "yr_built": 2013,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "10/2/20",
@@ -5690,7 +5690,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1825.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-G",
                 "units2": 1,
                 "sale_date": "12/22/15",
@@ -5721,7 +5721,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 4344.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-TPLX-G",
                 "units2": 1,
                 "sale_date": "5/15/12",
@@ -5814,7 +5814,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1215.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/15/16",
@@ -5980,7 +5980,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03822066666666,
-                    40.7392584
+                    40.739258400000004
                 ]
             }
         },
@@ -6186,7 +6186,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1351.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-TERR",
                 "units2": 1,
                 "sale_date": "3/23/10",
@@ -6197,7 +6197,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0391922244898,
-                    40.73919265306122
+                    40.739192653061224
                 ]
             }
         },
@@ -6217,7 +6217,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1279.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALCONY",
                 "units2": 1,
                 "sale_date": "11/13/07",
@@ -6248,7 +6248,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1518.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "8/16/18",
@@ -6279,7 +6279,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1866.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN",
                 "units2": 1,
                 "sale_date": "6/22/16",
@@ -6310,7 +6310,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1483.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "2/28/17",
@@ -6321,7 +6321,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03940885714286,
-                    40.74422169387756
+                    40.744221693877556
                 ]
             }
         },
@@ -6341,7 +6341,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1949.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-TERR #6",
                 "units2": 1,
                 "sale_date": "10/31/19",
@@ -6403,7 +6403,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1500.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "8/4/06",
@@ -6434,7 +6434,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1500.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-1PS-YD",
                 "units2": 1,
                 "sale_date": "6/28/07",
@@ -6465,7 +6465,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1500.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-2PS-YARD",
                 "units2": 1,
                 "sale_date": "8/8/06",
@@ -6496,7 +6496,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1500.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "8/4/06",
@@ -6600,7 +6600,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02974583333334,
-                    40.7515045
+                    40.751504499999996
                 ]
             }
         },
@@ -6972,7 +6972,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7003,7 +7003,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7034,7 +7034,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7065,7 +7065,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7096,7 +7096,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7127,7 +7127,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7158,7 +7158,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7189,7 +7189,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.038511,
-                    40.74362835
+                    40.743628349999994
                 ]
             }
         },
@@ -7302,7 +7302,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 0.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "8/9/18",
@@ -7333,7 +7333,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1204.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA",
                 "units2": 1,
                 "sale_date": "2/19/20",
@@ -7364,7 +7364,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1204.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA",
                 "units2": 1,
                 "sale_date": "2/19/20",
@@ -7426,7 +7426,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1628.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA",
                 "units2": 1,
                 "sale_date": "7/30/19",
@@ -7457,7 +7457,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1142.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "9/1/21",
@@ -7468,7 +7468,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03940885714286,
-                    40.74422169387756
+                    40.744221693877556
                 ]
             }
         },
@@ -8945,7 +8945,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": null,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "13B-138U-2C-G",
                 "units2": 138,
                 "sale_date": null,
@@ -8976,7 +8976,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": null,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "13B-185U-G",
                 "units2": 185,
                 "sale_date": null,
@@ -9007,7 +9007,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": null,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "13B-150U-G",
                 "units2": 150,
                 "sale_date": null,
@@ -9049,7 +9049,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0354631875,
-                    40.73863236875
+                    40.738632368750004
                 ]
             }
         },
@@ -9080,7 +9080,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0354631875,
-                    40.73863236875
+                    40.738632368750004
                 ]
             }
         },
@@ -9111,7 +9111,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03777758,
-                    40.74070777333333
+                    40.740707773333334
                 ]
             }
         },
@@ -9193,7 +9193,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 25248.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "PHASE II 16U",
                 "units2": 16,
                 "sale_date": "0000-00-00",
@@ -9317,7 +9317,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1236.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "6/25/17",
@@ -9328,7 +9328,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -9441,7 +9441,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1170.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -9472,7 +9472,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 905.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC-PS#14",
                 "units2": 1,
                 "sale_date": "4/27/05",
@@ -9503,7 +9503,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1154.0,
                 "yr_built": 2019,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "1/22/19",
@@ -9534,7 +9534,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1784.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "8/15/14",
@@ -9565,7 +9565,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1195.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "7/28/17",
@@ -9576,7 +9576,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -9627,7 +9627,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1445.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DECK",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -9638,7 +9638,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04174159183673,
-                    40.73980351020408
+                    40.739803510204084
                 ]
             }
         },
@@ -9658,7 +9658,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1490.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DECK",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -9669,7 +9669,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04174159183673,
-                    40.73980351020408
+                    40.739803510204084
                 ]
             }
         },
@@ -9689,7 +9689,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1445.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DECK",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -9700,7 +9700,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04174159183673,
-                    40.73980351020408
+                    40.739803510204084
                 ]
             }
         },
@@ -9720,7 +9720,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1445.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DECK",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -9731,7 +9731,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04174159183673,
-                    40.73980351020408
+                    40.739803510204084
                 ]
             }
         },
@@ -9751,7 +9751,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1641.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA-2DK-PS6",
                 "units2": 1,
                 "sale_date": "1/30/15",
@@ -9762,7 +9762,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03159944897959,
-                    40.7544085510204
+                    40.754408551020404
                 ]
             }
         },
@@ -9782,7 +9782,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 0.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA-BALCONY",
                 "units2": 1,
                 "sale_date": "6/18/20",
@@ -9813,7 +9813,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 0.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA-DECK-BA",
                 "units2": 1,
                 "sale_date": "6/18/20",
@@ -9844,7 +9844,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1212.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "3/13/13",
@@ -9875,7 +9875,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1058.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS-ROOF",
                 "units2": 1,
                 "sale_date": "4/5/06",
@@ -9906,7 +9906,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1172.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS-YARD",
                 "units2": 1,
                 "sale_date": "4/5/06",
@@ -9937,7 +9937,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1170.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "6/23/20",
@@ -9968,7 +9968,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 775.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "9/26/17",
@@ -9979,7 +9979,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -9999,7 +9999,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1214.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "9/26/17",
@@ -10010,7 +10010,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -10092,7 +10092,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1335.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "3/25/14",
@@ -10165,7 +10165,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0309844368421,
-                    40.73956068421053
+                    40.739560684210524
                 ]
             }
         },
@@ -10196,7 +10196,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03947971428572,
-                    40.74077991836735
+                    40.740779918367345
                 ]
             }
         },
@@ -10227,7 +10227,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03947971428572,
-                    40.74077991836735
+                    40.740779918367345
                 ]
             }
         },
@@ -10258,7 +10258,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03947971428572,
-                    40.74077991836735
+                    40.740779918367345
                 ]
             }
         },
@@ -10278,7 +10278,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 884.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "2/1/17",
@@ -10351,7 +10351,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03800701799665,
-                    40.73850045
+                    40.738500450000004
                 ]
             }
         },
@@ -10495,7 +10495,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1292.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/14/11",
@@ -10557,7 +10557,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 809.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "12/18/06",
@@ -10681,7 +10681,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1784.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "4/22/21",
@@ -10712,7 +10712,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1321.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "8/11/17",
@@ -10743,7 +10743,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1132.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "6/29/22",
@@ -10805,7 +10805,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1570.0,
                 "yr_built": 2019,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "8/25/20",
@@ -10867,7 +10867,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 915.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-",
                 "units2": 1,
                 "sale_date": "12/1/22",
@@ -10909,7 +10909,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03207452727273,
-                    40.74331351818181
+                    40.743313518181814
                 ]
             }
         },
@@ -11177,7 +11177,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 0.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA",
                 "units2": 1,
                 "sale_date": "6/21/21",
@@ -11208,7 +11208,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 670.0,
                 "yr_built": 2021,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "9/30/21",
@@ -11312,7 +11312,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03106895,
-                    40.74985385
+                    40.749853849999994
                 ]
             }
         },
@@ -11363,7 +11363,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1361.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-BALC",
                 "units2": 1,
                 "sale_date": "4/20/07",
@@ -11394,7 +11394,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1495.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN-BALC",
                 "units2": 1,
                 "sale_date": "3/27/19",
@@ -11425,7 +11425,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1865.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN",
                 "units2": 1,
                 "sale_date": "3/1/18",
@@ -11456,7 +11456,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 701.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "5/10/18",
@@ -11487,7 +11487,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 894.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "9/22/20",
@@ -11518,7 +11518,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1139.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN",
                 "units2": 1,
                 "sale_date": "1/26/07",
@@ -11549,7 +11549,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1298.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN-BALC",
                 "units2": 1,
                 "sale_date": "10/13/21",
@@ -11580,7 +11580,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1361.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "7/26/21",
@@ -11611,7 +11611,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 701.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "7/26/21",
@@ -11642,7 +11642,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1703.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN",
                 "units2": 1,
                 "sale_date": "5/11/07",
@@ -11673,7 +11673,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1314.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "7/7/21",
@@ -11828,7 +11828,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 652.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO-PS",
                 "units2": 1,
                 "sale_date": "6/12/06",
@@ -11859,7 +11859,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 682.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO-PS",
                 "units2": 1,
                 "sale_date": "4/18/06",
@@ -11921,7 +11921,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1151.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "3/22/21",
@@ -11952,7 +11952,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 926.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "2/17/20",
@@ -11983,7 +11983,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1342.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/TERR #18",
                 "units2": 1,
                 "sale_date": "12/22/14",
@@ -12014,7 +12014,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 919.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/TERR #17",
                 "units2": 1,
                 "sale_date": "7/16/14",
@@ -12045,7 +12045,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 610.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "8/17/22",
@@ -12076,7 +12076,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1390.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/8/14",
@@ -12107,7 +12107,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 942.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "9/11/19",
@@ -12138,7 +12138,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1342.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "9/11/19",
@@ -12169,7 +12169,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 610.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "4/3/14",
@@ -12200,7 +12200,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1737.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/TERR #12",
                 "units2": 1,
                 "sale_date": "8/22/14",
@@ -12231,7 +12231,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 942.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "5/13/19",
@@ -12262,7 +12262,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 610.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "5/30/14",
@@ -12293,7 +12293,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1324.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "7/15/15",
@@ -12324,7 +12324,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1293.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-TER(LCE)",
                 "units2": 1,
                 "sale_date": "6/23/14",
@@ -12355,7 +12355,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1637.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "3/22/19",
@@ -12386,7 +12386,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1497.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/24/14",
@@ -12417,7 +12417,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1302.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "12/1/17",
@@ -12448,7 +12448,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1179.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "7/30/14",
@@ -12479,7 +12479,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 649.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "7/1/14",
@@ -12541,7 +12541,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 792.0,
                 "yr_built": 2013,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "3/31/17",
@@ -12738,7 +12738,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03822066666666,
-                    40.7392584
+                    40.739258400000004
                 ]
             }
         },
@@ -12769,7 +12769,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03362181632653,
-                    40.73817397959184
+                    40.738173979591835
                 ]
             }
         },
@@ -12851,7 +12851,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1332.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "1/29/09",
@@ -12882,7 +12882,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1072.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "9/2/08",
@@ -12913,7 +12913,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1947.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "11/10/08",
@@ -12944,7 +12944,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1626.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "10/12/13",
@@ -12975,7 +12975,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 892.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "2/15/12",
@@ -13006,7 +13006,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "1/8/21",
@@ -13037,7 +13037,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1075.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": null,
                 "sale_date": "9/28/21",
@@ -13068,7 +13068,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "10/29/21",
@@ -13099,7 +13099,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 946.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "7/30/13",
@@ -13130,7 +13130,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1071.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "5/27/10",
@@ -13161,7 +13161,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1370.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "6/20/12",
@@ -13192,7 +13192,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1328.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "3/31/09",
@@ -13223,7 +13223,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 700.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "10/6/10",
@@ -13254,7 +13254,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1071.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "4/3/12",
@@ -13285,7 +13285,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "10/27/16",
@@ -13316,7 +13316,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "8/24/17",
@@ -13347,7 +13347,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "6/24/10",
@@ -13378,7 +13378,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1381.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "2/1/11",
@@ -13409,7 +13409,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1757.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "8/1/13",
@@ -13440,7 +13440,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1573.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "9/19/21",
@@ -13471,7 +13471,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "3/27/09",
@@ -13502,7 +13502,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1310.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#1",
                 "units2": 1,
                 "sale_date": "6/28/18",
@@ -13533,7 +13533,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1310.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "1/15/14",
@@ -13595,7 +13595,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1147.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "2/9/18",
@@ -13626,7 +13626,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2300.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3BA-DPLX",
                 "units2": 1,
                 "sale_date": "7/10/17",
@@ -13657,7 +13657,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1628.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA",
                 "units2": 1,
                 "sale_date": "9/17/21",
@@ -13781,7 +13781,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1530.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -13812,7 +13812,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1568.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA/GARAGE",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -13843,7 +13843,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1525.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/1BA",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -14246,7 +14246,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 686.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "7/1/21",
@@ -14277,7 +14277,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1735.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DPX-YRD-TER",
                 "units2": 1,
                 "sale_date": "5/12/16",
@@ -14350,7 +14350,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03728518367348,
-                    40.73901530612245
+                    40.739015306122454
                 ]
             }
         },
@@ -14412,7 +14412,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03893679591837,
-                    40.7393032244898
+                    40.739303224489795
                 ]
             }
         },
@@ -14494,7 +14494,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1085.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "9/10/10",
@@ -14525,7 +14525,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 910.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "1/5/23",
@@ -14556,7 +14556,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 910.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "6/28/18",
@@ -14587,7 +14587,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1046.0,
                 "yr_built": 2010,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/17/10",
@@ -14618,7 +14618,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1185.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "2/24/04",
@@ -14680,7 +14680,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 750.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "9/5/13",
@@ -14773,7 +14773,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1214.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA SU#18",
                 "units2": 1,
                 "sale_date": "4/22/22",
@@ -14784,7 +14784,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -14804,7 +14804,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 775.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA SU #2",
                 "units2": 1,
                 "sale_date": "8/28/17",
@@ -14815,7 +14815,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -14835,7 +14835,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 794.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "8/28/17",
@@ -14846,7 +14846,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -14866,7 +14866,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 735.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "8/4/17",
@@ -14877,7 +14877,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -14897,7 +14897,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 735.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "10/25/17",
@@ -14908,7 +14908,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -14928,7 +14928,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1707.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA",
                 "units2": 1,
                 "sale_date": "7/6/17",
@@ -14939,7 +14939,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -14959,7 +14959,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1290.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "9/25/17",
@@ -14970,7 +14970,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -14990,7 +14990,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 750.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "10/6/17",
@@ -15001,7 +15001,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15021,7 +15021,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 806.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "9/13/17",
@@ -15032,7 +15032,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15052,7 +15052,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1174.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "7/5/17",
@@ -15063,7 +15063,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15083,7 +15083,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1128.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA SU #4",
                 "units2": 1,
                 "sale_date": "11/29/22",
@@ -15094,7 +15094,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15114,7 +15114,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 634.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "8/16/17",
@@ -15125,7 +15125,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15145,7 +15145,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 877.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "9/15/17",
@@ -15156,7 +15156,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15176,7 +15176,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1169.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA/TERR #6",
                 "units2": 1,
                 "sale_date": "6/13/17",
@@ -15187,7 +15187,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15207,7 +15207,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 697.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA-STG#13",
                 "units2": 1,
                 "sale_date": "10/11/17",
@@ -15218,7 +15218,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15238,7 +15238,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 634.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "8/24/17",
@@ -15249,7 +15249,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15269,7 +15269,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1128.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "8/17/17",
@@ -15280,7 +15280,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15300,7 +15300,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1285.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "11/1/19",
@@ -15311,7 +15311,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15331,7 +15331,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1236.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "9/26/17",
@@ -15342,7 +15342,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15362,7 +15362,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1214.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "11/6/17",
@@ -15373,7 +15373,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15393,7 +15393,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1300.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "9/29/17",
@@ -15404,7 +15404,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -15455,7 +15455,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2147.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR/3BA-TER F",
                 "units2": 1,
                 "sale_date": "1/20/20",
@@ -15486,7 +15486,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1291.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "3/25/20",
@@ -15517,7 +15517,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1173.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/2BA/DEN",
                 "units2": 1,
                 "sale_date": "12/16/19",
@@ -15548,7 +15548,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 803.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "9/18/18",
@@ -15579,7 +15579,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 861.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "12/12/14",
@@ -15610,7 +15610,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 749.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "9/28/21",
@@ -15641,7 +15641,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1504.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA",
                 "units2": 1,
                 "sale_date": "5/20/21",
@@ -15672,7 +15672,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1127.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/DEN/2BA",
                 "units2": 1,
                 "sale_date": "4/25/12",
@@ -15703,7 +15703,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1278.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "5/4/12",
@@ -15734,7 +15734,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 783.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "8/26/15",
@@ -15765,7 +15765,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1563.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-BALCONY",
                 "units2": 1,
                 "sale_date": "7/29/19",
@@ -16664,7 +16664,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1917.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN-TERR#10",
                 "units2": 1,
                 "sale_date": "11/30/12",
@@ -16695,7 +16695,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1611.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN",
                 "units2": 1,
                 "sale_date": "2/1/08",
@@ -16726,7 +16726,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 702.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "3/7/14",
@@ -16757,7 +16757,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1917.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN-TERR#14",
                 "units2": 1,
                 "sale_date": "1/20/10",
@@ -16788,7 +16788,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1842.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-TERR#11",
                 "units2": 1,
                 "sale_date": "2/21/08",
@@ -16819,7 +16819,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1479.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN",
                 "units2": 1,
                 "sale_date": "5/17/11",
@@ -16850,7 +16850,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1917.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DEN",
                 "units2": 1,
                 "sale_date": "3/28/08",
@@ -16943,7 +16943,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2256.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DPLX",
                 "units2": 1,
                 "sale_date": "6/13/17",
@@ -17109,7 +17109,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02992975000001,
-                    40.74773875
+                    40.747738749999996
                 ]
             }
         },
@@ -17222,7 +17222,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1295.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "9/18/15",
@@ -17253,7 +17253,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1491.0,
                 "yr_built": 1997,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "TRIPLEX-DECK",
                 "units2": 1,
                 "sale_date": "9/6/13",
@@ -17439,7 +17439,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1300.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR - PS#13",
                 "units2": 1,
                 "sale_date": "8/22/16",
@@ -17667,7 +17667,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03309585333334,
-                    40.74001668
+                    40.740016680000004
                 ]
             }
         },
@@ -17842,7 +17842,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1388.0,
                 "yr_built": 2011,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "4/28/11",
@@ -18039,7 +18039,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03947971428572,
-                    40.74077991836735
+                    40.740779918367345
                 ]
             }
         },
@@ -18070,7 +18070,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03947971428572,
-                    40.74077991836735
+                    40.740779918367345
                 ]
             }
         },
@@ -18214,7 +18214,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 0.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA TERR",
                 "units2": 1,
                 "sale_date": "11/26/19",
@@ -18307,7 +18307,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2051.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "PS#3",
                 "units2": 1,
                 "sale_date": "12/12/03",
@@ -18338,7 +18338,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1000.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "12/14/21",
@@ -18369,7 +18369,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1000.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "6/7/17",
@@ -18400,7 +18400,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 930.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#1",
                 "units2": 1,
                 "sale_date": "1/11/18",
@@ -18442,7 +18442,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03537548979591,
-                    40.74134940816327
+                    40.741349408163266
                 ]
             }
         },
@@ -18462,7 +18462,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1250.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "10/15/11",
@@ -18648,7 +18648,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 511.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "4/30/20",
@@ -18679,7 +18679,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1370.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DPLX-BALC",
                 "units2": 1,
                 "sale_date": "5/27/20",
@@ -18710,7 +18710,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 511.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "7/24/15",
@@ -18834,7 +18834,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1270.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "5/17/07",
@@ -18865,7 +18865,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1275.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "4/9/14",
@@ -19020,7 +19020,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1524.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "9/28/04",
@@ -19113,7 +19113,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 838.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "4/25/10",
@@ -19206,7 +19206,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1990.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3BA",
                 "units2": 1,
                 "sale_date": "5/20/19",
@@ -19237,7 +19237,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1423.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "3/24/10",
@@ -19299,7 +19299,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2345.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DEN",
                 "units2": 1,
                 "sale_date": "8/20/13",
@@ -19310,7 +19310,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.037496159783,
-                    40.74403479916055
+                    40.744034799160545
                 ]
             }
         },
@@ -19330,7 +19330,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1382.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/20/11",
@@ -19361,7 +19361,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1548.0,
                 "yr_built": 2010,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DECK",
                 "units2": 1,
                 "sale_date": "5/4/21",
@@ -19392,7 +19392,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1548.0,
                 "yr_built": 2010,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "1/31/19",
@@ -19423,7 +19423,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1548.0,
                 "yr_built": 2010,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "1/31/19",
@@ -19454,7 +19454,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1341.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-PS",
                 "units2": 1,
                 "sale_date": "3/14/05",
@@ -19485,7 +19485,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 386.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "5/8/06",
@@ -19516,7 +19516,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1220.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "3/18/22",
@@ -19547,7 +19547,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1131.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "3/18/22",
@@ -19609,7 +19609,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 3378.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "12/7/18",
@@ -19620,7 +19620,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03544576060607,
-                    40.74430831515152
+                    40.744308315151514
                 ]
             }
         },
@@ -19682,7 +19682,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03840653061225,
-                    40.74422926530613
+                    40.744229265306124
                 ]
             }
         },
@@ -19702,7 +19702,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1175.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS1",
                 "units2": 1,
                 "sale_date": "9/14/19",
@@ -19899,7 +19899,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02822383662937,
-                    40.7435108
+                    40.743510799999996
                 ]
             }
         },
@@ -19981,7 +19981,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 696.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "2/3/15",
@@ -19992,7 +19992,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03549923749999,
-                    40.74488023125
+                    40.744880231249994
                 ]
             }
         },
@@ -20012,7 +20012,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1051.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "1/20/11",
@@ -20023,7 +20023,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03549923749999,
-                    40.74488023125
+                    40.744880231249994
                 ]
             }
         },
@@ -20043,7 +20043,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1154.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "PS1",
                 "units2": 1,
                 "sale_date": "4/25/03",
@@ -20074,7 +20074,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1005.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-TER-1/2PS",
                 "units2": 1,
                 "sale_date": "7/22/13",
@@ -20105,7 +20105,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 970.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC-PS#26",
                 "units2": 1,
                 "sale_date": "8/2/16",
@@ -20136,7 +20136,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1005.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC-PS#52",
                 "units2": 1,
                 "sale_date": "3/16/06",
@@ -20167,7 +20167,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1045.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC-PS#29",
                 "units2": 1,
                 "sale_date": "3/15/17",
@@ -20198,7 +20198,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1324.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/13/13",
@@ -20322,7 +20322,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1050.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#8",
                 "units2": 1,
                 "sale_date": "6/15/01",
@@ -20426,7 +20426,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03619266470588,
-                    40.74583991176471
+                    40.745839911764705
                 ]
             }
         },
@@ -20446,7 +20446,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1169.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/21/13",
@@ -20477,7 +20477,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1316.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#12-DECK",
                 "units2": 1,
                 "sale_date": "4/11/22",
@@ -20508,7 +20508,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1963.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-PS#13-DECK",
                 "units2": 1,
                 "sale_date": "8/4/19",
@@ -20539,7 +20539,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1805.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-PS#25-DECK",
                 "units2": 1,
                 "sale_date": "9/13/13",
@@ -20570,7 +20570,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2111.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DEN-PS#38-D",
                 "units2": 1,
                 "sale_date": "12/27/06",
@@ -20601,7 +20601,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1273.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "10/12/18",
@@ -20632,7 +20632,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1144.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "10/5/16",
@@ -20663,7 +20663,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1283.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "5/31/07",
@@ -20694,7 +20694,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1283.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "3/5/14",
@@ -20725,7 +20725,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 600.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "9/8/16",
@@ -20756,7 +20756,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 600.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "5/12/15",
@@ -20787,7 +20787,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1283.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "2/23/05",
@@ -20818,7 +20818,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1184.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "8/12/03",
@@ -20849,7 +20849,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1315.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "LOFT-DECK",
                 "units2": 1,
                 "sale_date": "5/1/15",
@@ -20880,7 +20880,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1184.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "5/24/01",
@@ -20911,7 +20911,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1320.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-PS#4",
                 "units2": 1,
                 "sale_date": "3/12/07",
@@ -20942,7 +20942,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1783.0,
                 "yr_built": 2010,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "2/9/16",
@@ -20973,7 +20973,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1007.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "2/28/00",
@@ -20984,7 +20984,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03296690625,
-                    40.74594111875
+                    40.745941118750004
                 ]
             }
         },
@@ -21004,7 +21004,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1008.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "PS #19 & 29",
                 "units2": 1,
                 "sale_date": "4/16/18",
@@ -21015,7 +21015,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03296690625,
-                    40.74594111875
+                    40.745941118750004
                 ]
             }
         },
@@ -21035,7 +21035,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1003.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "PS #6 & 12",
                 "units2": 1,
                 "sale_date": "6/23/00",
@@ -21046,7 +21046,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03296690625,
-                    40.74594111875
+                    40.745941118750004
                 ]
             }
         },
@@ -21097,7 +21097,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1685.0,
                 "yr_built": 2011,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-PS-BALC",
                 "units2": 1,
                 "sale_date": "4/5/11",
@@ -21139,7 +21139,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03510389795919,
-                    40.74614632653061
+                    40.746146326530614
                 ]
             }
         },
@@ -21190,7 +21190,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 925.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS-DPLX",
                 "units2": 1,
                 "sale_date": "10/25/22",
@@ -21221,7 +21221,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 945.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS-DPLX",
                 "units2": 1,
                 "sale_date": "12/14/07",
@@ -21252,7 +21252,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1578.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA/PS",
                 "units2": 1,
                 "sale_date": "12/3/18",
@@ -21283,7 +21283,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1236.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/26/22",
@@ -21314,7 +21314,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1308.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-TERRACE",
                 "units2": 1,
                 "sale_date": "4/4/08",
@@ -21345,7 +21345,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2172.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR/2.5BA/PS2",
                 "units2": 1,
                 "sale_date": "4/4/19",
@@ -21376,7 +21376,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2470.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR/3BA/PS11&12",
                 "units2": 1,
                 "sale_date": "10/10/18",
@@ -21469,7 +21469,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1673.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DECK",
                 "units2": 1,
                 "sale_date": "1/14/13",
@@ -21531,7 +21531,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 680.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "11/6/17",
@@ -21542,7 +21542,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0394109375,
-                    40.7384849375
+                    40.738484937500004
                 ]
             }
         },
@@ -21624,7 +21624,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 570.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "10/4/13",
@@ -21666,7 +21666,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02981093125,
-                    40.7465930625
+                    40.746593062500004
                 ]
             }
         },
@@ -21697,7 +21697,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0280508625,
-                    40.7462650625
+                    40.746265062499994
                 ]
             }
         },
@@ -21779,7 +21779,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1324.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "9/24/19",
@@ -21872,7 +21872,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1174.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "3/23/12",
@@ -21903,7 +21903,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 691.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "10/1/18",
@@ -21934,7 +21934,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 952.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN",
                 "units2": 1,
                 "sale_date": "11/26/07",
@@ -21965,7 +21965,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1174.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "11/2/06",
@@ -21996,7 +21996,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 823.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "5/20/04",
@@ -22027,7 +22027,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 937.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DEN",
                 "units2": 1,
                 "sale_date": "11/19/10",
@@ -22244,7 +22244,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1250.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "1/9/17",
@@ -22275,7 +22275,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1430.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "12/9/21",
@@ -22306,7 +22306,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1150.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "8/31/13",
@@ -22337,7 +22337,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1741.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR",
                 "units2": 1,
                 "sale_date": "5/16/13",
@@ -22441,7 +22441,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04032597967331,
-                    40.7387450882924
+                    40.738745088292404
                 ]
             }
         },
@@ -22461,7 +22461,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 2000.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3BA-P5-DKC",
                 "units2": 1,
                 "sale_date": "9/7/18",
@@ -22492,7 +22492,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1490.0,
                 "yr_built": 2013,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "8/13/21",
@@ -22554,7 +22554,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1085.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "11/30/10",
@@ -22678,7 +22678,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1040.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "9/11/09",
@@ -22709,7 +22709,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1500.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2BA",
                 "units2": 1,
                 "sale_date": "9/9/20",
@@ -22740,7 +22740,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 155.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "9/9/20",
@@ -22771,7 +22771,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1180.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "9/12/22",
@@ -22802,7 +22802,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 780.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "4/11/17",
@@ -22833,7 +22833,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1125.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "5/13/14",
@@ -22864,7 +22864,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 155.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "5/13/14",
@@ -22906,7 +22906,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02617319178681,
-                    40.74807435
+                    40.748074349999996
                 ]
             }
         },
@@ -22937,7 +22937,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02617319178681,
-                    40.74807435
+                    40.748074349999996
                 ]
             }
         },
@@ -23050,7 +23050,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1069.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DECK",
                 "units2": 1,
                 "sale_date": "10/3/03",
@@ -23081,7 +23081,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1371.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "1/31/12",
@@ -23112,7 +23112,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1367.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "1/31/12",
@@ -23143,7 +23143,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1371.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "5/20/15",
@@ -23174,7 +23174,7 @@
                 "city_state_zip": "HOBOKEN, NJ  07030",
                 "sq_ft": 1367.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "8/2/02",
@@ -23278,7 +23278,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03847244897959,
-                    40.7440172244898
+                    40.744017224489795
                 ]
             }
         },
@@ -23309,7 +23309,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03847244897959,
-                    40.7440172244898
+                    40.744017224489795
                 ]
             }
         },
@@ -23340,7 +23340,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03847244897959,
-                    40.7440172244898
+                    40.744017224489795
                 ]
             }
         },
@@ -23371,7 +23371,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03847244897959,
-                    40.7440172244898
+                    40.744017224489795
                 ]
             }
         },
@@ -23402,7 +23402,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03847244897959,
-                    40.7440172244898
+                    40.744017224489795
                 ]
             }
         },
@@ -23422,7 +23422,7 @@
                 "city_state_zip": "HOBOKENM, NJ  07030",
                 "sq_ft": 1114.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "11/7/05",
@@ -23453,7 +23453,7 @@
                 "city_state_zip": "HOLMDEL NJ  07733",
                 "sq_ft": 1263.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/15/16",
@@ -23484,7 +23484,7 @@
                 "city_state_zip": "HOLMDEL, NJ  07733",
                 "sq_ft": 1573.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "2/28/18",
@@ -23515,7 +23515,7 @@
                 "city_state_zip": "HOLMDEL, NJ  07733",
                 "sq_ft": 1405.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "3/3/17",
@@ -23546,7 +23546,7 @@
                 "city_state_zip": "HOUSTON, TX  77006",
                 "sq_ft": 1342.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "9/2/14",
@@ -23577,7 +23577,7 @@
                 "city_state_zip": "HOUSTON, TX  77006",
                 "sq_ft": 735.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "6/26/12",
@@ -23732,7 +23732,7 @@
                 "city_state_zip": "IRVINE CA  92618",
                 "sq_ft": 1208.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/22/14",
@@ -23763,7 +23763,7 @@
                 "city_state_zip": "IRVINE CA  92618",
                 "sq_ft": 955.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "2/4/16",
@@ -23794,7 +23794,7 @@
                 "city_state_zip": "IRVINE CA  92618",
                 "sq_ft": 746.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "4/14/15",
@@ -23825,7 +23825,7 @@
                 "city_state_zip": "IRVINE CA  92618",
                 "sq_ft": 1331.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "2/25/05",
@@ -23856,7 +23856,7 @@
                 "city_state_zip": "JERSEY CITY NJ  07302",
                 "sq_ft": 777.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "7/9/14",
@@ -23918,7 +23918,7 @@
                 "city_state_zip": "JERSEY CITY, NJ  07302",
                 "sq_ft": 144.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "7/9/14",
@@ -23949,7 +23949,7 @@
                 "city_state_zip": "JERSEY CITY, NJ  07305",
                 "sq_ft": 966.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "10/21/20",
@@ -24177,7 +24177,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03728518367348,
-                    40.73901530612245
+                    40.739015306122454
                 ]
             }
         },
@@ -24208,7 +24208,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02981093125,
-                    40.7465930625
+                    40.746593062500004
                 ]
             }
         },
@@ -24228,7 +24228,7 @@
                 "city_state_zip": "LIVINGSTON NJ  07039",
                 "sq_ft": 1190.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": null,
                 "sale_date": "5/24/18",
@@ -24239,7 +24239,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03156581249999,
-                    40.75132464375
+                    40.751324643749996
                 ]
             }
         },
@@ -24259,7 +24259,7 @@
                 "city_state_zip": "LIVINGSTON NJ  07039",
                 "sq_ft": 915.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "11/17/14",
@@ -24414,7 +24414,7 @@
                 "city_state_zip": "LIVINGSTON, NJ  07039",
                 "sq_ft": 705.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "4/3/14",
@@ -24445,7 +24445,7 @@
                 "city_state_zip": "LIVINGSTON, NJ  07039",
                 "sq_ft": 564.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "7/27/17",
@@ -24476,7 +24476,7 @@
                 "city_state_zip": "LIVINGSTON, NJ  07039",
                 "sq_ft": 578.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DECK",
                 "units2": 1,
                 "sale_date": "4/3/17",
@@ -24704,7 +24704,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0271185,
-                    40.75334858333333
+                    40.753348583333334
                 ]
             }
         },
@@ -24941,7 +24941,7 @@
                 "city_state_zip": "MILL VALLEY,  CA  94941",
                 "sq_ft": 726.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "1/30/02",
@@ -25065,7 +25065,7 @@
                 "city_state_zip": "MILLBURN, NJ  07030",
                 "sq_ft": 705.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO-PS",
                 "units2": 1,
                 "sale_date": "12/20/05",
@@ -25189,7 +25189,7 @@
                 "city_state_zip": "MONTCLAIR NJ  07042",
                 "sq_ft": 1331.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "7/7/15",
@@ -25220,7 +25220,7 @@
                 "city_state_zip": "MONTCLAIR NJ  07042",
                 "sq_ft": 895.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "4/17/13",
@@ -25251,7 +25251,7 @@
                 "city_state_zip": "MONTCLAIR, NJ  07042",
                 "sq_ft": 1072.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "9/4/13",
@@ -25282,7 +25282,7 @@
                 "city_state_zip": "MONTVALE, NJ  07645",
                 "sq_ft": 779.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/1BA-TNPL-3R",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -25313,7 +25313,7 @@
                 "city_state_zip": "MONTVALE, NJ  07645",
                 "sq_ft": 775.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/1BA-TNPL-2L",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -25344,7 +25344,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1326.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25375,7 +25375,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1326.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25406,7 +25406,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1326.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25437,7 +25437,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1326.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25468,7 +25468,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1272.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25499,7 +25499,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1272.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25530,7 +25530,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1272.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25561,7 +25561,7 @@
                 "city_state_zip": "MONTVILLE, NJ  07045",
                 "sq_ft": 1272.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25685,7 +25685,7 @@
                 "city_state_zip": "MORRISTOWN,  NJ  07960",
                 "sq_ft": 1263.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25716,7 +25716,7 @@
                 "city_state_zip": "MORRISTOWN,  NJ  07960",
                 "sq_ft": 1263.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25747,7 +25747,7 @@
                 "city_state_zip": "MORRISTOWN,  NJ  07960",
                 "sq_ft": 1263.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25778,7 +25778,7 @@
                 "city_state_zip": "MORRISTOWN,  NJ  07960",
                 "sq_ft": 1021.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-YARD",
                 "units2": 1,
                 "sale_date": "0000-00-00",
@@ -25871,7 +25871,7 @@
                 "city_state_zip": "MOUNTAINSIDE, NJ  07092",
                 "sq_ft": 1172.0,
                 "yr_built": 1994,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-LDK",
                 "units2": 1,
                 "sale_date": "7/12/19",
@@ -25902,7 +25902,7 @@
                 "city_state_zip": "MOUNTAINSIDE, NJ  07092",
                 "sq_ft": 1060.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "3/21/19",
@@ -25933,7 +25933,7 @@
                 "city_state_zip": "MOUNTAINSIDE, NJ  07092",
                 "sq_ft": 1807.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "3/21/19",
@@ -25944,7 +25944,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03845527083334,
-                    40.73839754166666
+                    40.738397541666664
                 ]
             }
         },
@@ -25995,7 +25995,7 @@
                 "city_state_zip": "NAPLES,   FL  34119",
                 "sq_ft": 564.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "3/29/05",
@@ -26026,7 +26026,7 @@
                 "city_state_zip": "NAPLES,  FL  34119",
                 "sq_ft": 966.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "4/5/07",
@@ -26181,7 +26181,7 @@
                 "city_state_zip": "NEW PROVIDENCE, NJ  07974",
                 "sq_ft": 720.0,
                 "yr_built": 1998,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-PS",
                 "units2": 1,
                 "sale_date": "5/4/22",
@@ -26212,7 +26212,7 @@
                 "city_state_zip": "NEW VERNON,  NJ  07976",
                 "sq_ft": 1555.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "9/5/18",
@@ -26398,7 +26398,7 @@
                 "city_state_zip": "NEW YORK, NY  10022",
                 "sq_ft": 1258.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS",
                 "units2": 1,
                 "sale_date": "8/2/00",
@@ -26440,7 +26440,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03800701799665,
-                    40.73850045
+                    40.738500450000004
                 ]
             }
         },
@@ -26522,7 +26522,7 @@
                 "city_state_zip": "NEW YORK, NY  10028",
                 "sq_ft": 1275.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC-PS#4",
                 "units2": 1,
                 "sale_date": "5/28/03",
@@ -26553,7 +26553,7 @@
                 "city_state_zip": "NEW YORK, NY  10119",
                 "sq_ft": 1285.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "10/30/17",
@@ -26564,7 +26564,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -26584,7 +26584,7 @@
                 "city_state_zip": "NEW YORK, NY  10119",
                 "sq_ft": 842.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1.5BA",
                 "units2": 1,
                 "sale_date": "10/26/17",
@@ -26595,7 +26595,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -26832,7 +26832,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1810.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -26863,7 +26863,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1980.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/3.5BA D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -26874,7 +26874,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -26894,7 +26894,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1974.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/3.5BA D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -26905,7 +26905,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -26925,7 +26925,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1712.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -26936,7 +26936,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -26956,7 +26956,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2144.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -26967,7 +26967,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -26987,7 +26987,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2064.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -26998,7 +26998,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27018,7 +27018,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1850.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27029,7 +27029,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27049,7 +27049,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1761.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27060,7 +27060,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27080,7 +27080,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2001.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA TERR",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27091,7 +27091,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27111,7 +27111,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2136.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3.5BA D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27122,7 +27122,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27142,7 +27142,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2478.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3.5BA D/D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27153,7 +27153,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27173,7 +27173,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2476.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3.5BA D/D/T",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27184,7 +27184,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27204,7 +27204,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2482.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3.5BA D/T",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27215,7 +27215,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27235,7 +27235,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2097.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27246,7 +27246,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27266,7 +27266,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2041.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27277,7 +27277,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27297,7 +27297,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2280.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3BA D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27308,7 +27308,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27328,7 +27328,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2154.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3BA D/D",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27339,7 +27339,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27359,7 +27359,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2367.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/4BA D/D/O",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27370,7 +27370,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27390,7 +27390,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2431.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/4BA D/O/T",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27401,7 +27401,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03311595,
-                    40.746322875
+                    40.746322875000004
                 ]
             }
         },
@@ -27421,7 +27421,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1810.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA D/Y",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27452,7 +27452,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1662.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27483,7 +27483,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1662.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27514,7 +27514,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1583.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27545,7 +27545,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1569.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27576,7 +27576,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 0.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27607,7 +27607,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 1639.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/2.5BA YARD",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27638,7 +27638,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2305.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR/3.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27669,7 +27669,7 @@
                 "city_state_zip": "NUTLEY, NJ  07110",
                 "sq_ft": 2015.0,
                 "yr_built": 2022,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR/3.5BA DECK",
                 "units2": 1,
                 "sale_date": "3/9/22",
@@ -27793,7 +27793,7 @@
                 "city_state_zip": "PALO ALTO, CA  94301",
                 "sq_ft": 1282.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "5/15/14",
@@ -27824,7 +27824,7 @@
                 "city_state_zip": "PALO ALTO, CA  95301",
                 "sq_ft": 1282.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-BALC",
                 "units2": 1,
                 "sale_date": "5/15/14",
@@ -27855,7 +27855,7 @@
                 "city_state_zip": "PARSIPPANY,  NJ  07054",
                 "sq_ft": 610.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "8/22/14",
@@ -27886,7 +27886,7 @@
                 "city_state_zip": "PARSIPPANY, NJ  07054",
                 "sq_ft": 610.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "2/8/20",
@@ -27917,7 +27917,7 @@
                 "city_state_zip": "PARSIPPANY, NJ  07054",
                 "sq_ft": 634.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "6/20/17",
@@ -27928,7 +27928,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -28847,7 +28847,7 @@
                 "city_state_zip": "SAN FRANCISCO, CA  94164",
                 "sq_ft": 1330.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#3",
                 "units2": 1,
                 "sale_date": "3/23/22",
@@ -28878,7 +28878,7 @@
                 "city_state_zip": "SAN FRANCISCO, CA  94164",
                 "sq_ft": 1330.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#7",
                 "units2": 1,
                 "sale_date": "3/23/22",
@@ -28909,7 +28909,7 @@
                 "city_state_zip": "SANTA BARBARA CA  93105",
                 "sq_ft": 1037.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS",
                 "units2": 1,
                 "sale_date": "7/20/22",
@@ -28940,7 +28940,7 @@
                 "city_state_zip": "SANTA BARBARA CA  93105",
                 "sq_ft": 1324.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR-DECK-P#7 LT",
                 "units2": 1,
                 "sale_date": "7/20/22",
@@ -28971,7 +28971,7 @@
                 "city_state_zip": "SANTA BARBARA, CA  93105",
                 "sq_ft": 838.0,
                 "yr_built": 2006,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/1BA",
                 "units2": 1,
                 "sale_date": "7/20/22",
@@ -29013,7 +29013,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02822383662937,
-                    40.7435108
+                    40.743510799999996
                 ]
             }
         },
@@ -29416,7 +29416,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03777758,
-                    40.74070777333333
+                    40.740707773333334
                 ]
             }
         },
@@ -29467,7 +29467,7 @@
                 "city_state_zip": "SEASIDE PARK, NJ  08752",
                 "sq_ft": 926.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "7/29/14",
@@ -29591,7 +29591,7 @@
                 "city_state_zip": "SHORT HILLS NJ  07078",
                 "sq_ft": 1260.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "6/15/09",
@@ -29653,7 +29653,7 @@
                 "city_state_zip": "SHORT HILLS NJ  07078",
                 "sq_ft": 1140.0,
                 "yr_built": 2009,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/14/15",
@@ -29684,7 +29684,7 @@
                 "city_state_zip": "SHORT HILLS, NJ  07078",
                 "sq_ft": 763.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "8/22/17",
@@ -29695,7 +29695,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -29715,7 +29715,7 @@
                 "city_state_zip": "SHORT HILLS, NJ  07078",
                 "sq_ft": 763.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "8/7/17",
@@ -29726,7 +29726,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -29746,7 +29746,7 @@
                 "city_state_zip": "SHORT HILLS, NJ  07078",
                 "sq_ft": 783.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "3/30/12",
@@ -29870,7 +29870,7 @@
                 "city_state_zip": "SHORT HILLS, NJ  07078",
                 "sq_ft": 1310.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-TER",
                 "units2": 1,
                 "sale_date": "10/8/12",
@@ -29912,7 +29912,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02945155,
-                    40.7486783125
+                    40.748678312500004
                 ]
             }
         },
@@ -29932,7 +29932,7 @@
                 "city_state_zip": "SKILLMAN NJ  08558",
                 "sq_ft": 898.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "5/13/14",
@@ -29963,7 +29963,7 @@
                 "city_state_zip": "SKILLMAN NJ  08558",
                 "sq_ft": 1207.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/1/05",
@@ -29994,7 +29994,7 @@
                 "city_state_zip": "SKILLMAN NJ  08558",
                 "sq_ft": 898.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "7/14/05",
@@ -30025,7 +30025,7 @@
                 "city_state_zip": "SPRING LAKE NJ  07762",
                 "sq_ft": 1013.0,
                 "yr_built": 2000,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "1/18/11",
@@ -30191,7 +30191,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03893679591837,
-                    40.7393032244898
+                    40.739303224489795
                 ]
             }
         },
@@ -30242,7 +30242,7 @@
                 "city_state_zip": "STATEN ISLAND NY  10306",
                 "sq_ft": 806.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "1/26/05",
@@ -30273,7 +30273,7 @@
                 "city_state_zip": "STATEN ISLAND NY  10306",
                 "sq_ft": 1268.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "10/22/09",
@@ -30315,7 +30315,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03106895,
-                    40.74985385
+                    40.749853849999994
                 ]
             }
         },
@@ -30428,7 +30428,7 @@
                 "city_state_zip": "SUMMIT, NJ  07901",
                 "sq_ft": 788.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "4/24/18",
@@ -30459,7 +30459,7 @@
                 "city_state_zip": "SUMMIT, NJ  07901",
                 "sq_ft": 788.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR/2BA",
                 "units2": 1,
                 "sale_date": "11/13/19",
@@ -30583,7 +30583,7 @@
                 "city_state_zip": "TEL AVIV, ISRAEL  6515430  00000",
                 "sq_ft": 1867.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DPLX",
                 "units2": 1,
                 "sale_date": "5/17/21",
@@ -30614,7 +30614,7 @@
                 "city_state_zip": "TEL AVIV, ISRAEL 6515430  00000",
                 "sq_ft": 1505.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-BALC",
                 "units2": 1,
                 "sale_date": "6/19/03",
@@ -30645,7 +30645,7 @@
                 "city_state_zip": "TENAFLY, NJ  07670",
                 "sq_ft": 1072.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "11/24/09",
@@ -30676,7 +30676,7 @@
                 "city_state_zip": "TENAFLY, NJ  07670",
                 "sq_ft": 1581.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "12/18/14",
@@ -30718,7 +30718,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.02974583333334,
-                    40.7515045
+                    40.751504499999996
                 ]
             }
         },
@@ -30769,7 +30769,7 @@
                 "city_state_zip": "TOMS RIVER, NJ  08753",
                 "sq_ft": 1956.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3BA",
                 "units2": 1,
                 "sale_date": "11/26/18",
@@ -30800,7 +30800,7 @@
                 "city_state_zip": "TOMS RIVER, NJ  08753",
                 "sq_ft": 2000.0,
                 "yr_built": null,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "4BR/2BA",
                 "units2": 1,
                 "sale_date": "11/26/18",
@@ -30893,7 +30893,7 @@
                 "city_state_zip": "TORONTO, ONTARIO M4V3E3  00000",
                 "sq_ft": 618.0,
                 "yr_built": 2005,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DECK",
                 "units2": 1,
                 "sale_date": "4/24/13",
@@ -30904,7 +30904,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.03940595,
-                    40.7437912
+                    40.743791200000004
                 ]
             }
         },
@@ -30924,7 +30924,7 @@
                 "city_state_zip": "TOTOWA, NJ  07511",
                 "sq_ft": 1336.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "4/20/15",
@@ -30955,7 +30955,7 @@
                 "city_state_zip": "TOTOWA, NJ  07511",
                 "sq_ft": 1336.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "4/20/15",
@@ -30986,7 +30986,7 @@
                 "city_state_zip": "UPPER SADDLE RIVER NJ  07458",
                 "sq_ft": 942.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "7/29/15",
@@ -31017,7 +31017,7 @@
                 "city_state_zip": "UPPER SADDLE RIVER NJ  07458",
                 "sq_ft": 1281.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "6/7/19",
@@ -31048,7 +31048,7 @@
                 "city_state_zip": "WALDWICK NJ  07463",
                 "sq_ft": 828.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR",
                 "units2": 1,
                 "sale_date": "6/17/14",
@@ -31079,7 +31079,7 @@
                 "city_state_zip": "WALDWICK, NJ  07463",
                 "sq_ft": 610.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "5/11/15",
@@ -31110,7 +31110,7 @@
                 "city_state_zip": "WALDWICK, NJ  07463",
                 "sq_ft": 697.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "10/24/17",
@@ -31121,7 +31121,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -31141,7 +31141,7 @@
                 "city_state_zip": "WALDWICK, NJ  07463",
                 "sq_ft": 929.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "PS#1",
                 "units2": 1,
                 "sale_date": "1/9/04",
@@ -31172,7 +31172,7 @@
                 "city_state_zip": "WALDWICK, NJ  07463",
                 "sq_ft": 1335.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS15",
                 "units2": 1,
                 "sale_date": "9/8/99",
@@ -31214,7 +31214,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04016299402483,
-                    40.7385501809414
+                    40.738550180941395
                 ]
             }
         },
@@ -31245,7 +31245,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.04016299402483,
-                    40.7385501809414
+                    40.738550180941395
                 ]
             }
         },
@@ -31265,7 +31265,7 @@
                 "city_state_zip": "WARREN NJ  07059",
                 "sq_ft": 786.0,
                 "yr_built": 2021,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1.5BA",
                 "units2": 1,
                 "sale_date": "4/27/21",
@@ -31420,7 +31420,7 @@
                 "city_state_zip": "WARREN NJ  07059",
                 "sq_ft": 955.0,
                 "yr_built": 2002,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "8/14/18",
@@ -31451,7 +31451,7 @@
                 "city_state_zip": "WARREN NJ  07059",
                 "sq_ft": 2022.0,
                 "yr_built": 2018,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "3BR/3BA-PS7-YDC",
                 "units2": 1,
                 "sale_date": "1/22/18",
@@ -31544,7 +31544,7 @@
                 "city_state_zip": "WARREN, NJ  07060",
                 "sq_ft": 861.0,
                 "yr_built": 2012,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "2/22/13",
@@ -31761,7 +31761,7 @@
                 "city_state_zip": "WEST ORANGE NJ  07052",
                 "sq_ft": 1273.0,
                 "yr_built": 2004,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "10/21/21",
@@ -31885,7 +31885,7 @@
                 "city_state_zip": "WEST WINDSOR, NJ  08550",
                 "sq_ft": 680.0,
                 "yr_built": 1999,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "2/19/15",
@@ -31896,7 +31896,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0394109375,
-                    40.7384849375
+                    40.738484937500004
                 ]
             }
         },
@@ -32009,7 +32009,7 @@
                 "city_state_zip": "WESTFIELD, NJ  07090",
                 "sq_ft": 1275.0,
                 "yr_built": 2001,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DECK",
                 "units2": 1,
                 "sale_date": "1/28/16",
@@ -32040,7 +32040,7 @@
                 "city_state_zip": "WESTFIELD, NJ  07090",
                 "sq_ft": 1422.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-PS#28",
                 "units2": 1,
                 "sale_date": "4/8/13",
@@ -32133,7 +32133,7 @@
                 "city_state_zip": "WESTPORT CT  06880",
                 "sq_ft": 1014.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DPLX-BALC",
                 "units2": 1,
                 "sale_date": "9/6/07",
@@ -32164,7 +32164,7 @@
                 "city_state_zip": "WESTPORT CT  06880",
                 "sq_ft": 1014.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR-DPLX-BALC",
                 "units2": 1,
                 "sale_date": "9/6/07",
@@ -32288,7 +32288,7 @@
                 "city_state_zip": "WOODMERE, NY  11598",
                 "sq_ft": 1915.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "7/25/16",
@@ -32319,7 +32319,7 @@
                 "city_state_zip": "WOODMERE, NY  11598",
                 "sq_ft": 1935.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "10/25/12",
@@ -32350,7 +32350,7 @@
                 "city_state_zip": "WOODSIDE CA  94062",
                 "sq_ft": 750.0,
                 "yr_built": 2017,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR/1BA",
                 "units2": 1,
                 "sale_date": "9/28/17",
@@ -32361,7 +32361,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0252436375839,
-                    40.75248119463088
+                    40.752481194630874
                 ]
             }
         },
@@ -32629,7 +32629,7 @@
                 "city_state_zip": "WYCKOFF NJ  07481",
                 "sq_ft": 1361.0,
                 "yr_built": 2014,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "4/13/17",
@@ -32660,7 +32660,7 @@
                 "city_state_zip": "WYCKOFF NJ  07481",
                 "sq_ft": 833.0,
                 "yr_built": 2008,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": null,
                 "units2": 1,
                 "sale_date": "7/1/16",
@@ -32722,7 +32722,7 @@
                 "city_state_zip": "WYCKOFF NJ  07481",
                 "sq_ft": 1230.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "6/23/11",
@@ -32753,7 +32753,7 @@
                 "city_state_zip": "WYCKOFF NJ  07481",
                 "sq_ft": 1230.0,
                 "yr_built": 2007,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "2BR",
                 "units2": 1,
                 "sale_date": "10/27/20",
@@ -32857,7 +32857,7 @@
                 "type": "Point",
                 "coordinates": [
                     -74.0327224,
-                    40.744277
+                    40.744277000000004
                 ]
             }
         },
@@ -32877,7 +32877,7 @@
                 "city_state_zip": "WYCKOFF, NJ  07481",
                 "sq_ft": 638.0,
                 "yr_built": 2003,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "1BR-DECK",
                 "units2": 1,
                 "sale_date": "5/16/17",
@@ -32908,7 +32908,7 @@
                 "city_state_zip": "WYCOFF, NJ  07481",
                 "sq_ft": 833.0,
                 "yr_built": 2020,
-                "rent_control": "NO",
+                "rent_control": "Unconfirmed",
                 "building_desc": "STUDIO",
                 "units2": 1,
                 "sale_date": "6/24/21",

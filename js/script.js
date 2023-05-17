@@ -14,6 +14,8 @@ const map = new mapboxgl.Map({
     minZoom: 13.69, // prevent user from zooming out too far
     maxBounds: bounds
 });
+// define variable for highlighting landlords
+let clickedLandlord = null;
 
 // add search bar for user to find their address
 map.addControl(
@@ -28,10 +30,10 @@ map.addControl(new mapboxgl.NavigationControl());
 
 map.on('load', function () {
     //// add data sources  
-    // Hoboken polygon  
-    map.addSource('hoboken-boundaries', {
+    //
+    map.addSource('shade-hoboken', {
         type: 'geojson',
-        data: './data/hoboken-boundaries.geojson'
+        data: './data/shade-hoboken.geojson'
     })
     // condo data
     map.addSource('condos', {
@@ -44,17 +46,16 @@ map.on('load', function () {
         data: './data/apts.geojson'
     })
 
-    // add Hoboken border
+    // shade out everything that is not Hoboken
     map.addLayer({
-        id: 'hoboken-border',
-        type: 'line',
-        source: 'hoboken-boundaries',
+        id: 'shade-hoboken',
+        type: 'fill',
+        source: 'shade-hoboken',
         paint: {
-            'line-color': '#56566b',
-            'line-width': 3
+            'fill-color': '#353540',
+            'fill-opacity': 0.75
         }
     })
-
     // add points for apartments
     map.addLayer({
         id: 'apartment-points',
@@ -96,9 +97,17 @@ map.on('load', function () {
     })
 
     // add popups with additional info for each apartment
+
+    // Create a popup, but don't add it to the map yet
+    const popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false
+    });
+
+    // Populate the popup and set its coordinates on hover- apartments
     map.on('mouseenter', 'apartment-points', (e) => {
         map.getCanvas().style.cursor = 'pointer';
-        new mapboxgl.Popup()
+        popup
             .setLngLat(e.lngLat)
             .setHTML(`
                 <table class="key-value-table">
@@ -120,15 +129,16 @@ map.on('load', function () {
             .addTo(map);
     });
 
+    // Make popup disappear when mouse leaves
     map.on('mouseleave', 'apartment-points', () => {
         map.getCanvas().style.cursor = '';
         popup.remove();
     });
 
-    // add popups with additional info for each apartment
+    // Populate the popup and set its coordinates on hover- condos
     map.on('mouseenter', 'condo-points', (e) => {
         map.getCanvas().style.cursor = 'pointer';
-        new mapboxgl.Popup()
+        popup
             .setLngLat(e.lngLat)
             .setHTML(`
                 <table class="key-value-table">
@@ -146,9 +156,28 @@ map.on('load', function () {
             .addTo(map);
     });
 
+    // Make popup disappear when mouse leaves
     map.on('mouseleave', 'condo-points', () => {
         map.getCanvas().style.cursor = '';
         popup.remove();
     });
+
+    // map.on('click', 'apartment-points', (e) => {
+    //     if (e.features.length > 0) {
+    //     if (hoveredStateId !== null) {
+    //     map.setFeatureState(
+    //     { source: 'states', id: hoveredStateId },
+    //     { hover: false }
+    //     );
+    //     }
+    //     hoveredStateId = e.features[0].id;
+    //     map.setFeatureState(
+    //     { source: 'states', id: hoveredStateId },
+    //     { hover: true }
+    //     );
+    //     }
+    //     });
+
+
 })
 
