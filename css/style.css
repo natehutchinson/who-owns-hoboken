@@ -43,7 +43,7 @@ nav {
 }
 
 #sidebar {
-    width: 348px;
+    width: 600px;
     padding: 1rem;
     font-size: 0.9rem;
     overflow-y: scroll;
@@ -100,3 +100,8 @@ nav {
     height: 10px;
     margin-right: 5px;
 }
+
+/* table */
+table, th, td {
+    border: 1px solid;
+  }

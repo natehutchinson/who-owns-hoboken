@@ -1,6 +1,11 @@
-//// Populate sidebar
+//// import landlords data
+import landlords from './data/landlords.geojson' assert { type: 'json' };
+console.log(landlords);
+
+//// Initialize sidebar content
 /// I do this using JS because clicking stuff changes the sidebar text, and this way I only 
-/// need to write out the html that populates the sidebar once, which makes it easier to make changes
+/// need to write out the html that initially populates the sidebar once, which makes it easier to make changes
+
 // store default sidebar text as a variable
 var sidebarCode = '<p>Click on your building to see who owns it, and what else they own.</p>' +
     '<p>If you notice any inaccurate information or would like some help organizing your building, ' +
@@ -10,6 +15,7 @@ var sidebarCode = '<p>Click on your building to see who owns it, and what else t
 // add text to sidebar
 $('#sidebar').html(sidebarCode)
 
+// initialize basemap
 mapboxgl.accessToken = 'pk.eyJ1IjoiY3dob25nIiwiYSI6IjAyYzIwYTJjYTVhMzUxZTVkMzdmYTQ2YzBmMTM0ZDAyIn0.owNd_Qa7Sw2neNJbK6zc1A';
 
 // set boundaries so user cannot pan away from Hoboken
@@ -26,10 +32,6 @@ const map = new mapboxgl.Map({
     minZoom: 13.69, // prevent user from zooming out too far
     maxBounds: bounds
 });
-// define variable for highlighting landlords
-let clickedLandlord = null;
-
-
 
 // add search bar for user to find their address
 map.addControl(
@@ -41,30 +43,27 @@ map.addControl(
 // add navigation control
 map.addControl(new mapboxgl.NavigationControl());
 
+// define variable for highlighting landlords
+let clickedLandlord = null;
 
+// load map
 map.on('load', function () {
-    console.log(clickedLandlord);
+    //console.log(clickedLandlord);
     //// add data sources  
-    // shade Hoboken polygon
+    // add polygon to shade everything but Hoboken
     map.addSource('shade-hoboken', {
         type: 'geojson',
         data: './data/shade-hoboken.geojson'
     })
-    // condo data
+    // add condo data
     map.addSource('condos', {
         type: 'geojson',
         data: './data/condos.geojson'
     })
-    // apartment data
+    // add apartment data
     map.addSource('apartments', {
         type: 'geojson',
         data: './data/apts.geojson'
-    })
-
-    //landlords data
-    map.addSource('landlords', {
-        type: 'geojson',
-        data: './data/landlords.geojson'
     })
 
     // shade out everything that is not Hoboken
@@ -96,7 +95,6 @@ map.on('load', function () {
             'circle-color': '#1b5bc2'
         }
     })
-
     // add points for condos
     map.addLayer({
         id: 'condo-points',
@@ -117,11 +115,14 @@ map.on('load', function () {
         }
     })
 
-    //// define function to highlight all properties with same landlord on click
+    //// define a function to make changes when user clicks on a property
+    /// function highlights all properties with same landlord as clicked property
+    /// also populates the sidebar with info about clicked property and selected landlord's portfolio
     const handleClick = (e) => {
         // if clicked landlord is not already highlighted, highlight all their properties
         if (clickedLandlord !== e.features[0].properties.company) {
             clickedLandlord = e.features[0].properties.company;
+            console.log(clickedLandlord);
             // change all apartments not related to that landlord to gray
             map.setPaintProperty('apartment-points', 'circle-color',
                 [
@@ -155,7 +156,7 @@ map.on('load', function () {
                     .25
                 ]);
             //// populate sidebar
-            // If building has a name, use that as header, otherwise use address
+            // If the  building has a name, use that as header, otherwise use address
             if (e.features[0].properties.building_name) {
                 $('#sidebar').html(`
                 <div>
@@ -169,13 +170,15 @@ map.on('load', function () {
                 </div>
                 `)
             }
+            // add additional details about the property to the sidebar
             $('#sidebar').append(`
             <div>
-            <p>This property is owned by ${e.features[0].properties.company}, whose business
+            <p>This property is owned by <b>${e.features[0].properties.company}</b>, whose business
             address is ${e.features[0].properties.owners_mailing_address}, 
             ${e.features[0].properties.city_state_zip} </p>
             </div>
             `)
+            // vary text depending on rent control status of property
             if (e.features[0].properties.rent_control === "YES") {
                 $('#sidebar').append(`
                 <div>
@@ -200,38 +203,38 @@ map.on('load', function () {
             of ${e.features[0].properties.total_units} in Hoboken.</p>
             </div>
             `)
-
             //// add table for all of landlord's properties
-
-            var table = $('<table/>');
-            var table_head = $('<thead/>');
-            var head_row = $('<tr/>');
-            var table_body = $('<tbody/>');
-            var body_row = [];
-
-            $.each('landlords', function (th, items) {
-                head_row.append('<th>' + th + '</th>');
-                // $.each(items, function (index, item) {
-
-                //     if (body_row[index] === undefined) {
-                //         body_row[index] = $('<tr/>');
-                //         body_row[index].append('<td>' + item + '</td>');
-                //     }
-                //     else
-                //         body_row[index].append('<td>' + item + '</td>');
-                // });
-
-                // console.log(items);
-            });
-
-            table_head.append(head_row);
-            // table_body.append(body_row)
-            // table.append(table_head);
-            // table.append(table_body);
-            $('#sidebar').html(table)
-
-
-            // if clicked landlord is already highlighted, restore defaults
+            $('#sidebar').append(`
+            <div>
+            <p><b>${e.features[0].properties.company}</b> owns the following buildings in Hoboken: </p>
+            </div>
+            `)
+            /// create blank table
+            $('#sidebar').append(`
+            <table>
+                <th>Address</th>
+                <th>Name</th>
+                <th># Units</th>
+                <th>Rent controlled?</th>
+                <th>Year Built</th>
+            </table>
+            `)
+            /// store results for just the clicked landlord
+            const filteredResults = landlords.features.filter((feature) => {
+                return feature.properties.company === clickedLandlord
+            })
+            //console.log(filteredResults)
+            /// populate table with results for clicked landlord
+            filteredResults.forEach((feature) => {
+                $('#sidebar tbody').append(`<tr class="child">
+                    <td>${feature.properties.property_location}</td>
+                    <td>${feature.properties.building_name}</td>
+                    <td>${feature.properties.units2}</td>
+                    <td>${feature.properties.rent_control}</td>
+                    <td>${feature.properties.yr_built}</td>
+                    </tr>`)
+            })
+        // if user clicks a property that is already highlighted, restore defaults
         } else if (clickedLandlord = e.features[0].properties.company) {
             map.setPaintProperty('apartment-points', 'circle-color', '#1b5bc2');
             map.setPaintProperty('apartment-points', 'circle-opacity', .75);
@@ -241,9 +244,8 @@ map.on('load', function () {
             $('#sidebar').html(sidebarCode)
             clickedLandlord = null;
         }
-        console.log(clickedLandlord);
-        console.log(e.features[0].properties.building_name);
-        console.log(e.features[0].properties.property_location);
+        //console.log(e.features[0].properties.building_name);
+        //console.log(e.features[0].properties.property_location);
     }
 
     // call function for both apartments and condos
@@ -251,7 +253,7 @@ map.on('load', function () {
     map.on('click', 'condo-points', handleClick)
 
 
-    // add popups with additional info for each apartment
+    //// add popups with additional info on hover for each apartment
 
     // Create a popup, but don't add it to the map yet
     const popup = new mapboxgl.Popup({
@@ -316,9 +318,4 @@ map.on('load', function () {
         map.getCanvas().style.cursor = '';
         popup.remove();
     });
-
-
-
-
 })
-
