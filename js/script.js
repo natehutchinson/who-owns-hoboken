@@ -200,7 +200,7 @@ map.on('load', function () {
             $('#sidebar').append(`
             <div>
             <p>This property has ${e.features[0].properties.units2} units. The landlord owns a total
-            of ${e.features[0].properties.total_units} in Hoboken.</p>
+            of ${e.features[0].properties.total_units} units in Hoboken.</p>
             </div>
             `)
             //// add table for all of landlord's properties
