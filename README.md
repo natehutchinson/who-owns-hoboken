@@ -21,3 +21,4 @@ There are two enhancements that could be made to improve the funtionality of thi
 
 1. Add buttons allowing the user to filter based on certain characteristics (i.e. rent control status, landlord size, etc.).
 2. Improve how the map deals with condos. Condos are treated as separate properties, even if they do are located in the same building. This means that there may be condo points in the exact same place on the map, but only the top one would be clickable. This could be improved by creating an additional condo data set that allows for building-level summaries to populate the sidebar, which could then link to a landlord-level view. 
+3. Experiment with different geocoding APIs when generating the input geojsons, as some of the points look a little off. Currently the [Nominatim API](https://nominatim.org/release-docs/latest/api/Overview/) is used.
