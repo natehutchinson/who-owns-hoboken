@@ -17,7 +17,7 @@ The above screenshot shows what happens when the property at 501 1st Street is s
 The data was compiled for Hudson County tax assessor's [website](https://www.hcnj.us/finance/tax-assessments/). 
 
 ## Further development
-There are two enhancements that could be made to improve the funtionality of this map:
+There are three enhancements that could be made to improve the funtionality of this map:
 
 1. Add buttons allowing the user to filter based on certain characteristics (i.e. rent control status, landlord size, etc.).
 2. Improve how the map deals with condos. Condos are treated as separate properties, even if they do are located in the same building. This means that there may be condo points in the exact same place on the map, but only the top one would be clickable. This could be improved by creating an additional condo data set that allows for building-level summaries to populate the sidebar, which could then link to a landlord-level view. 
